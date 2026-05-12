@@ -6,20 +6,53 @@ The app is built as an offline-first Kotlin project using Jetpack Compose, Room,
 
 ## App Preview
 
-| Splash | Home Dashboard | Quick Bill |
-| --- | --- | --- |
-| ![Splash Screen](docs/screenshots/splash.jpeg) | ![Home Dashboard Top](docs/screenshots/home-top.jpeg) | ![Quick Bill Form](docs/screenshots/quick-bill-form.jpeg) |
-| Splash screen | Sales dashboard top section | Quick bill entry screen |
-
-| Quick Bill Dropdown | Best Sellers Filter | Best Sellers Charts |
-| --- | --- | --- |
-| ![Quick Bill Dropdown](docs/screenshots/quick-bill-dropdown.jpeg) | ![Best Sellers Filter](docs/screenshots/best-sellers-filter.jpeg) | ![Best Sellers Charts](docs/screenshots/best-sellers-chart.jpeg) |
-| Category dropdown interaction | Week and month filter view | Pie chart and category revenue chart |
-
-| Home Dashboard Bottom | Income Log |
-| --- | --- |
-| ![Home Dashboard Bottom](docs/screenshots/home-bottom.jpeg) | ![Income Log](docs/screenshots/income-log.jpeg) |
-| Best seller analysis and recommendation section | Income history and summary screen |
+<table>
+  <tr>
+    <td align="center"><strong>Splash</strong></td>
+    <td align="center"><strong>Home Dashboard</strong></td>
+    <td align="center"><strong>Quick Bill</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/splash.jpeg" alt="Splash Screen" width="220"/></td>
+    <td align="center"><img src="docs/screenshots/home-top.jpeg" alt="Home Dashboard Top" width="220"/></td>
+    <td align="center"><img src="docs/screenshots/quick-bill-form.jpeg" alt="Quick Bill Form" width="220"/></td>
+  </tr>
+  <tr>
+    <td align="center">Splash screen</td>
+    <td align="center">Sales dashboard top section</td>
+    <td align="center">Quick bill entry screen</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Quick Bill Dropdown</strong></td>
+    <td align="center"><strong>Best Sellers Filter</strong></td>
+    <td align="center"><strong>Best Sellers Charts</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/quick-bill-dropdown.jpeg" alt="Quick Bill Dropdown" width="220"/></td>
+    <td align="center"><img src="docs/screenshots/best-sellers-filter.jpeg" alt="Best Sellers Filter" width="220"/></td>
+    <td align="center"><img src="docs/screenshots/best-sellers-chart.jpeg" alt="Best Sellers Charts" width="220"/></td>
+  </tr>
+  <tr>
+    <td align="center">Category dropdown interaction</td>
+    <td align="center">Week and month filter view</td>
+    <td align="center">Pie chart and category revenue chart</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Home Dashboard Bottom</strong></td>
+    <td align="center"><strong>Income Log</strong></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/home-bottom.jpeg" alt="Home Dashboard Bottom" width="220"/></td>
+    <td align="center"><img src="docs/screenshots/income-log.jpeg" alt="Income Log" width="220"/></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">Best seller analysis and recommendation section</td>
+    <td align="center">Income history and summary screen</td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 ## Core Flow
 
