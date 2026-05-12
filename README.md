@@ -4,6 +4,8 @@ HastaKalaShop is an Android sales analytics app for artisans, handmade product s
 
 The app is built as an offline-first Kotlin project using Jetpack Compose, Room, MVVM, Material 3, and MPAndroidChart, with optional Firebase sync placeholders and a mock Gemini-style insight generator.
 
+#Apk link https://drive.google.com/file/d/1Zva__R4bU0e4590ngP7qlinyTHp6KHAb/view?usp=sharing
+
 ## App Preview
 
 <table>
