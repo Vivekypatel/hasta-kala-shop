@@ -33,6 +33,11 @@ HastaKalaShop is a native Android Studio project built with Kotlin, Jetpack Comp
 
 ## Screenshots
 
-![Screenshot 1](docs/screenshots/screenshot-250.png)
-![Screenshot 2](docs/screenshots/screenshot-253.png)
-![Screenshot 3](docs/screenshots/screenshot-256.png)
+![Splash Screen](docs/screenshots/splash.jpeg)
+![Home Dashboard Top](docs/screenshots/home-top.jpeg)
+![Home Dashboard Bottom](docs/screenshots/home-bottom.jpeg)
+![Quick Bill Form](docs/screenshots/quick-bill-form.jpeg)
+![Quick Bill Dropdown](docs/screenshots/quick-bill-dropdown.jpeg)
+![Best Sellers Filter](docs/screenshots/best-sellers-filter.jpeg)
+![Best Sellers Charts](docs/screenshots/best-sellers-chart.jpeg)
+![Income Log](docs/screenshots/income-log.jpeg)
